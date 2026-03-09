@@ -8,7 +8,7 @@
 
 | 资源名称 | 链接 | 描述 |
 |---------|------|------|
-| 我的原创 | https://github.com/Yuna-Nexus | 个人开发的原创技能集合 |
+| my-skills | https://github.com/Yuna-Nexus | 个人开发的原创技能集合 |
 | Skills.sh | https://skills.sh/ | Agent Skills 目录，一键安装技能 |
 | Anthropic Skills | https://github.com/anthropics/skills | Claude 官方技能库 |
 | OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | wsxwj123整理的 OpenCode 技能备份仓库 |
