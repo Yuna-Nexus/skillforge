@@ -11,7 +11,7 @@
 | 我的原创 | https://github.com/Yuna-Nexus | 个人开发的原创技能集合 |
 | Skills.sh | https://skills.sh/ | Agent Skills 目录，一键安装技能 |
 | Anthropic Skills | https://github.com/anthropics/skills | Claude 官方技能库 |
-| OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | 个人开发者整理的 OpenCode 技能备份仓库 |
+| OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | wsxwj123整理的 OpenCode 技能备份仓库 |
 
 ---
 
@@ -48,4 +48,4 @@
 - **我的原创技能**: [https://github.com/Yuna-Nexus](https://github.com/Yuna-Nexus)
 - **安装技能**: [https://skills.sh/](https://skills.sh/)
 - **Claude 官方技能**: [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
-- **OpenCode 技能备份**: [https://github.com/wsxwj123/opencode-skills-backup](https://github.com/wsxwj123/opencode-skills-backup)
+- **wsxwj123开发的 OpenCode 技能备份**: [https://github.com/wsxwj123/opencode-skills-backup](https://github.com/wsxwj123/opencode-skills-backup)
