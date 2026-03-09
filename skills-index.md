@@ -23,7 +23,7 @@
 |---------|---------|-----------|-----------|-----------|---------|---------|
 | OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | nsfc-proposal | 国自然基金提案撰写辅助 | 仓库内 | ⭐⭐⭐ | 专为中文SCI论文设计，严格符合NSFC格式要求 |
 | OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | sci2doc | SCI论文材料转换为中文博士论文 | 仓库内 | ⭐⭐⭐ | 解决论文转换格式痛点，符合博士论文规范 |
-| 我的原创 | https://github.com/Yuna-Nexus | article-writing | SCI 论文写作辅助 | 仓库内 | ⭐⭐⭐ | 个人开发的通用论文写作技能 |
+| 我的原创 | https://github.com/Yuna-Nexus | article-writing | SCI 论文写作辅助 | 仓库内 | ⭐⭐⭐ | 基于wsxwj123article-writing skill 更新的通用论文写作技能 |
 | 我的原创 | https://github.com/Yuna-Nexus | research-publication-strategy | 科研发表策略分析 | 仓库内 | ⭐⭐⭐ | 已有文章方向，进行发表期刊调研 |
 | Anthropic Skills | https://github.com/anthropics/skills | skill-creator | 自定义技能创建指南 | [skills/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | ⭐⭐⭐ | 学习如何开发自定义技能 |
 
