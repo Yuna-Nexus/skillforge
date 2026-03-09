@@ -23,8 +23,8 @@
 |---------|---------|-----------|-----------|-----------|---------|---------|
 | OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | nsfc-proposal | 国自然基金提案撰写辅助 | 仓库内 | ⭐⭐⭐ | 专为中文SCI论文设计，严格符合NSFC格式要求 |
 | OpenCode Skills Backup | https://github.com/wsxwj123/opencode-skills-backup | sci2doc | SCI论文材料转换为中文博士论文 | 仓库内 | ⭐⭐⭐ | 解决论文转换格式痛点，符合博士论文规范 |
-| 我的原创 | https://github.com/Yuna-Nexus | article-writing | SCI 论文写作辅助 | 仓库内 | ⭐⭐⭐ | 基于wsxwj123article-writing skill 更新的通用论文写作技能 |
-| 我的原创 | https://github.com/Yuna-Nexus | research-publication-strategy | 科研发表策略分析 | 仓库内 | ⭐⭐⭐ | 已有文章方向，进行发表期刊调研 |
+| my-skills | https://github.com/Yuna-Nexus | article-writing | SCI 论文写作辅助 | 仓库内 | ⭐⭐⭐ | 基于wsxwj123 article-writing skill 更新的通用论文写作技能 |
+| my-skills | https://github.com/Yuna-Nexus | research-publication-strategy | 科研发表策略分析 | 仓库内 | ⭐⭐⭐ | 已有文章方向，进行发表期刊调研生成调研报告 |
 | Anthropic Skills | https://github.com/anthropics/skills | skill-creator | 自定义技能创建指南 | [skills/skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | ⭐⭐⭐ | 学习如何开发自定义技能 |
 
 
@@ -45,7 +45,7 @@
 
 ## 📌 快速导航
 
-- **我的原创技能**: [https://github.com/Yuna-Nexus](https://github.com/Yuna-Nexus)
+- **个人进行原创或更新的技能**: [https://github.com/Yuna-Nexus](https://github.com/Yuna-Nexus)
 - **安装技能**: [https://skills.sh/](https://skills.sh/)
 - **Claude 官方技能**: [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
 - **wsxwj123开发的 OpenCode 技能备份**: [https://github.com/wsxwj123/opencode-skills-backup](https://github.com/wsxwj123/opencode-skills-backup)
